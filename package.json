@@ -1,0 +1,16 @@
+{
+  "name": "saas-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "github": "^2.1.0",
+    "irisjs": "git+https://github.com/CityWebConsultants/Iris.git#develop",
+    "irisjs-githubauth": "git+https://github.com/devhood/irisjsGithubAuth.git#fix_enable_module_bug"
+  }
+}
